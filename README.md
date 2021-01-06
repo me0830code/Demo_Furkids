@@ -2,7 +2,7 @@
 Date : 106 / 06 / 12
 
 # Motivation & Purpose
-Side Project for Animal Adoption App
+Side Project - Animal Adoption App
 
 1. Timeline Wall
 2. Adoption System
